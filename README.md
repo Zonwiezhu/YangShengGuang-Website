@@ -1,6 +1,6 @@
 # yangshengguang
 
-This template should help get you started developing with Vue 3 in Vite.
+Hi, this is my first website with vuejs. I will place weekly my improvend for myself :).
 
 ## Recommended IDE Setup
 
