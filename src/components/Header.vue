@@ -5,9 +5,8 @@
     <nav>
         <div class="nav-inner">
             <!--Logo-->
-            
             <div class="logo">
-                <img src="src/assets/Afbeeldingen/Logo.png" alt="Afbeelding" width="100px" height="100px"/>
+                <img src="/src/assets/Afbeeldingen/Logo.png" alt="Afbeelding" width="100px" height="100px"/>
             </div>
 
             <!--Link-->
