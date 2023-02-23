@@ -6,7 +6,7 @@
 </template>
 
 <script setup>
-import Headers from "/Users/zonwiezhu/yangshengguang/src/components/Header.vue";
+import Headers from "../src/components/Header.vue";
 //import { RouterLink, RouterView } from 'vue-router'
 </script>
 
