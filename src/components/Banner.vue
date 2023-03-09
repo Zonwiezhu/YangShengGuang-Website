@@ -26,7 +26,7 @@
                 
                 <div class="main-banner">
                     <div class="img-container">
-                        <img src="/src/assets/Afbeeldingen/Massage 1.png" alt="">
+                        <img src="/src/assets/Afbeeldingen/Massage1.png" alt="">
                         <div class="img-content">
                              
                             <h3>Massage</h3>
@@ -38,14 +38,14 @@
                     <div class="top">
 
                         <div class="img-container">
-                        <img src="/src/assets/Afbeeldingen/Acupuntuur 1.png" alt="">
+                        <img src="/src/assets/Afbeeldingen/Acupuntuur1.png" alt="">
                             <div class="img-content">
                                 <h3>Acupuntuur</h3>
                             </div>
                         </div>
 
                         <div class="img-container">
-                        <img src="/src/assets/Afbeeldingen/Moxa 1.png" alt="">
+                        <img src="/src/assets/Afbeeldingen/Moxa1.png" alt="">
                             <div class="img-content">
                                 <h3>Moxa</h3>
                             </div>
@@ -54,14 +54,14 @@
 
                     <div class="bottem">
                         <div class="img-container">
-                        <img src="/src/assets/Afbeeldingen/Energie 1.png" alt="">
+                        <img src="/src/assets/Afbeeldingen/Energie1.png" alt="">
                             <div class="img-content">
                                 <h3>Energie</h3>
                             </div>
                         </div>
 
                         <div class="img-container">
-                        <img src="/src/assets/Afbeeldingen/Cupping 1.png" alt="">
+                        <img src="/src/assets/Afbeeldingen/Cupping1.png" alt="">
                             <div class="img-content">
                                 <h3>Cupping</h3>
                             </div>
