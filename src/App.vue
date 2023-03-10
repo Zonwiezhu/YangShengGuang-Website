@@ -7,7 +7,7 @@
 
 <script setup>
 import Headers from "../src/components/Header.vue";
-//import { RouterLink, RouterView } from 'vue-router'
+import { RouterLink, RouterView } from 'vue-router'
 </script>
 
 <style scoped>
