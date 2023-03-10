@@ -12,15 +12,16 @@
 
             <!--Link-->
             <div class="links" id="mylinks">
-                <a href="#">Home</a>
-                <a href="#">Lichamelijke klachten</a>
-                <a href="#">Behandeling</a>
-                <a href="#">Over Mei</a>
-                <a href="#">Tarieven</a>
-                <a href="#">Contact</a>
+                
+                <a href="/">Home</a>
+                <a href="/lichamelijkeklachten">Lichamelijke klachten</a>
+                <a href="/behandeling">Behandeling</a>
+                <a href="/mei">Over Mei</a>
+                <a href="/tarieven">Tarieven</a>
+                <a href="/contact">Contact</a>
             </div>
 
-            <!--Icons-->
+            
         </div>
     </nav>
 </template>
@@ -57,10 +58,6 @@ nav .nav-inner{
 
 .nav-inner .links a:hover{
     border-color: black;
-}
-
-.links .icon {
-  display: none;
 }
 
 @media screen and (max-width: 1024px) {
