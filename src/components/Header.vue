@@ -6,7 +6,7 @@
         <div class="nav-inner">
             <!--Logo-->
             
-            <div class="logo">
+            <div class="rechts">
                 <img src="/src/assets/Afbeeldingen/Logo.png" alt="Afbeelding" width="100px" height="100px"/>
             </div>
 
@@ -54,6 +54,14 @@ nav .nav-inner{
     line-height: 1.25;
     border-bottom: 1px solid transparent;
     transition: .3s;
+}
+
+.rechts {
+    flex: 0 25%;
+}
+
+.links {
+    flex: 0 75%
 }
 
 .nav-inner .links a:hover{
