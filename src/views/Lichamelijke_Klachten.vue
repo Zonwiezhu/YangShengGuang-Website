@@ -85,13 +85,13 @@
 
                 <div class= "main-banner1">
                     <div class="img-container">
-                        <img src="/src/assets/Afbeeldingen/Kruiden.JPG" alt="" >
+                        <img src="/src/assets/Afbeeldingen/Massage1.JPG" alt="" >
                     </div>
                 </div>
                     
                 <div class= "main-banner2">
                     <div class="img-container">
-                        <img src="/src/assets/Afbeeldingen/Binnen.JPG" alt="" >
+                        <img src="/src/assets/Afbeeldingen/Massage1.png" alt="" >
                     </div>
                 </div>
             </div>
