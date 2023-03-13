@@ -85,7 +85,7 @@
 
                 <div class= "main-banner1">
                     <div class="img-container">
-                        <img src="/src/assets/Afbeeldingen/Massage1.JPG" alt="" >
+                        <img src="/src/assets/Afbeeldingen/Massage1.png" alt="" >
                     </div>
                 </div>
                     
