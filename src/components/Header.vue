@@ -23,8 +23,6 @@
                 <a href="/tarieven">Tarieven</a>
                 <a href="/contact">Contact</a>
             </div>
-
-            
         </div>
     </nav>
 </template>
@@ -109,8 +107,5 @@ z-index: 1;
     }
   
 }
-
-.show {display:block;}
-
 
 </style>
