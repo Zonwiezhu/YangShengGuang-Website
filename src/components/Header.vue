@@ -7,12 +7,15 @@
             <!--Logo-->
             
             <div class="rechts">
-                <img src="/src/assets/Afbeeldingen/Logo.png" alt="Afbeelding" width="100px" height="100px"/>
+                <img src="/src/assets/Afbeeldingen/Logo.png" alt="Afbeelding">
             </div>
+
+            <a id="menu-icon" class="menu-icon" onclick="onMenuClick()">
+                <i class="fa fa-bars"></i>
+            </a>
 
             <!--Link-->
             <div class="links" id="mylinks">
-                
                 <a href="/">Home</a>
                 <a href="/lichamelijkeklachten">Lichamelijke klachten</a>
                 <a href="/behandeling">Behandeling</a>
@@ -27,6 +30,9 @@
 </template>
 
 <script setup>
+function onMenuClick() {
+  document.getElementById("mylinks").classList.toggle("show");
+}
 </script>
 
 <style scoped>
@@ -34,6 +40,7 @@
 nav {
     border-bottom: 3px solid #f8f8f8;
 }
+
 nav .nav-inner{
     height: 90px;
     display:flex;
@@ -42,6 +49,7 @@ nav .nav-inner{
     max-width: 1070px;
     width: 100%;
     margin: auto;
+    padding: 1.3rem;
 }
 
 .nav-inner .links a {
@@ -57,23 +65,52 @@ nav .nav-inner{
 }
 
 .rechts {
-    flex: 0 25%;
+    align-self: center;
+    margin-left: 1.2rem;
 }
 
 .links {
-    flex: 0 75%
+    margin: auto;
 }
 
 .nav-inner .links a:hover{
     border-color: black;
 }
 
-@media screen and (max-width: 1024px) {
+.menu-icon {
+  color: black;
+  cursor: pointer;
+  display: none;
+}
 
-  .links a:not(:nth-child(n+5)) {display: none;}
+
+@media screen and (max-width: 1024px) {
+.links {
+    display: none;
+    position: absolute;
+    top: 3.7rem;
+    left: 0;
+    width: 100%;
+    background-color: var(--bgcolor);
+    text-align: center;
+    }
+
+.links.responsive {
+display: block;
+    }
+
+.links a {
+display: block;
+    }
+
+.menu-icon {
+display: block;
+z-index: 1;
+    }
   
 }
 
+.show {display:block;}
 
 
 </style>
