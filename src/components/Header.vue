@@ -11,7 +11,7 @@
             </div>
 
             <a id="menu-icon" class="menu-icon" onclick="onMenuClick()">
-                <i class="fa fa-bars"></i>
+                <i class="fa fa-bars fa-2x"></i>
             </a>
 
             <!--Link-->
