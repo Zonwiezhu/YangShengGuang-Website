@@ -5,7 +5,7 @@
               <p>
                 Aangesloten bij de Nederlandse beroepsvereniging voor Chinese Geneeswijze. Alle rechten voorbehouden. 
                 <br />
-                Copyright © 2023 Acupunctuur Yang Sheng Guang (Gebouwd door Zonwie).
+                Copyright © 2023 Acupunctuur Yang Sheng Guang (Zonwie).
               </p>
           </div>
       </footer>
