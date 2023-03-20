@@ -5,7 +5,7 @@
 
     <div class="Delen">
       <div class="Rechts-Afbeelding">
-        <img src="/src/assets/Afbeeldingen/cupping1.png" alt="">      
+        <img src="/src/assets/Afbeeldingen/Cupping1.png" alt="">      
         <h2>Cupping</h2>
           <p>
             <br />
@@ -19,7 +19,7 @@
       </div>
 
       <div class="Links-Afbeelding">
-        <img src="/src/assets/Afbeeldingen/massage.png" alt="">      
+        <img src="/src/assets/Afbeeldingen/Massage.png" alt="">      
         <h2>Tuina massage</h2>
           <p>
             <br />
@@ -44,7 +44,7 @@
       </div>
 
       <div class="Links-Afbeelding">
-        <img src="/src/assets/Afbeeldingen/energie1.png" alt="">      
+        <img src="/src/assets/Afbeeldingen/Energie1.png" alt="">      
         <h2>Energie</h2>
           <p>
             <br />

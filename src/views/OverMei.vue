@@ -1,3 +1,97 @@
 <template>
-    <h1>Hello</h1>
+<main class="about">
+  <div class="container">
+    <section class="grid info">
+      <div class="column-xs-12 column-md-4">
+        <img src="/src/assets/Afbeeldingen/HMeiVoordeur.png">
+      </div>
+      <div class="column-xs-12 column-md-7">
+        <div class="intro">
+          <h2>Mevrouw Mei</h2>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident voluptatem consectetur illum, natus placeat incidunt tempora architecto aliquid recusandae eligendi repudiandae ex laborum neque quod cum id facere nulla.</p>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident voluptatem consectetur illum, natus placeat incidunt tempora architecto aliquid recusandae eligendi repudiandae ex laborum neque quod cum id facere nulla.</p>
+          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident voluptatem consectetur illum, natus placeat incidunt tempora architecto aliquid recusandae eligendi repudiandae ex laborum neque quod cum id facere nulla.</p>
+        </div>
+      </div>
+      <div class="column-xs-12 column-md-7">
+        <blockquote>
+          <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident voluptatem consectetur illum, natus placeat incidunt tempora architecto aliquid recusandae eligendi repudiandae ex laborum neque quod cum id facere nulla.</h3>
+        </blockquote>
+      </div>
+      <div class="column-xs-12 column-md-5">
+        <img src="/src/assets/Afbeeldingen/HMeiBinnen2.png">
+      </div>
+    </section>
+  </div>
+</main>
 </template>
+
+<style scoped>
+    h1, h2, h3 {
+    font-family: 'EB Garamond', serif;
+    color: black;
+    line-height: 1.1;
+    }
+
+    h2, h3 {
+    color: black;
+    font-weight: 400;
+    }
+
+    h1 {
+    font-size: 2.325rem;
+    font-weight: 500;
+    margin: 0;
+    }
+
+    h2 {
+    font-size: 2rem;
+    margin: 0 0 2rem;
+    }
+
+    h3 {
+    font-size: 1.75rem;
+    margin: 0 0 2rem;
+    }
+
+    blockquote {
+    font-style: italic;
+    text-align: center;
+    width: 40rem;
+    height: auto;
+    max-width: 100%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    }
+
+    .container {
+    margin: auto;
+    padding: 0 2rem;
+    max-width: 75rem;
+    width: 100%;
+    }
+
+    main {
+    padding: 2rem 0;
+    }
+
+    .section-heading {
+    transform: rotate(0) translateX(0);
+    }
+
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    
+    .intro {
+        padding: 1rem;
+    }
+    
+    blockquote {
+        width: 30rem;
+        height: 20rem;
+    }
+</style>
