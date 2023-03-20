@@ -19,13 +19,13 @@
         <div class="address details">
           <i class="fas fa-map-marker-alt"></i>
           <div class="topic">Adres</div>
-          <div class="text-one">Mecklenburstraat 29, Zoetermeer</div>
+          <div class="text-one">Mecklenburstraat 29, 2713BC, Zoetermeer</div>
         </div>
 
         <div class="phone details">
           <i class="fas fa-phone-alt"></i>
           <div class="topic">Telefoonnummer</div>
-          <div class="text-one">0630782591</div>
+          <div class="text-one">0639235388</div>
         </div>
 
         <div class="email details">

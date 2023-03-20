@@ -2,9 +2,6 @@
 <main class="about">
   <div class="container">
     <section class="grid info">
-      <div class="column-xs-12 column-md-4">
-        <img src="/src/assets/Afbeeldingen/HMeiVoordeur.png">
-      </div>
       <div class="column-xs-12 column-md-7">
         <div class="intro">
           <h2>Mevrouw Mei</h2>
@@ -18,8 +15,8 @@
           <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident voluptatem consectetur illum, natus placeat incidunt tempora architecto aliquid recusandae eligendi repudiandae ex laborum neque quod cum id facere nulla.</h3>
         </blockquote>
       </div>
-      <div class="column-xs-12 column-md-5">
-        <img src="/src/assets/Afbeeldingen/HMeiBinnen2.png">
+      <div class="image">
+        <img src="/src/assets/Afbeeldingen/HMeiVoordeur.png">
       </div>
     </section>
   </div>
@@ -47,6 +44,7 @@
     h2 {
     font-size: 2rem;
     margin: 0 0 2rem;
+    text-align: center;
     }
 
     h3 {
@@ -81,10 +79,14 @@
     }
 
     img {
-        width: 100%;
-        height: 100%;
-        object-fit: cover;
+        width: 50%;
+        height: auto;
     }
+
+    .image {
+      text-align: center;
+    }
+    
     
     .intro {
         padding: 1rem;
