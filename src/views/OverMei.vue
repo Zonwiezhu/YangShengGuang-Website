@@ -4,7 +4,7 @@
     <section class="grid info">
       <div class="column-xs-12 column-md-7">
         <div class="intro">
-          <h2>Mevrouw Mei</h2>
+          <h1>Mevrouw Mei</h1>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident voluptatem consectetur illum, natus placeat incidunt tempora architecto aliquid recusandae eligendi repudiandae ex laborum neque quod cum id facere nulla.</p>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident voluptatem consectetur illum, natus placeat incidunt tempora architecto aliquid recusandae eligendi repudiandae ex laborum neque quod cum id facere nulla.</p>
           <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident voluptatem consectetur illum, natus placeat incidunt tempora architecto aliquid recusandae eligendi repudiandae ex laborum neque quod cum id facere nulla.</p>
@@ -25,9 +25,7 @@
 
 <style scoped>
     h1, h2, h3 {
-    font-family: 'EB Garamond', serif;
     color: black;
-    line-height: 1.1;
     }
 
     h2, h3 {
@@ -36,12 +34,6 @@
     }
 
     h1 {
-    font-size: 2.325rem;
-    font-weight: 500;
-    margin: 0;
-    }
-
-    h2 {
     font-size: 2rem;
     margin: 0 0 2rem;
     text-align: center;
