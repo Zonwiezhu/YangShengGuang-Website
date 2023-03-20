@@ -16,12 +16,12 @@
 
             <!--Link-->
             <div class="links" id="mylinks">
-                <a href="/">Home</a>
-                <a href="/lichamelijkeklachten">Lichamelijke klachten</a>
-                <a href="/behandeling">Behandeling</a>
-                <a href="/mei">Over Mei</a>
-                <a href="/tarieven">Tarieven</a>
-                <a href="/contact">Contact</a>
+                <router-link to="/">Home</router-link>
+                <router-link to="/lichamelijkeklachten">Lichamelijke klachten</router-link>
+                <router-link to="/behandeling">Behandeling</router-link>
+                <router-link to="/mei">Over Mei</router-link>
+                <router-link to="/tarieven">Tarieven</router-link>
+                <router-link to="/contact">Contact</router-link>
             </div>
         </div>
     </nav>

@@ -129,7 +129,7 @@
                         </table>
                     
                     <h4>
-                        Voor afspraken bel : 06-30782591 
+                        Voor afspraken bel : 06-39235388 
                     </h4>
 
                     </div>
