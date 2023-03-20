@@ -162,7 +162,7 @@
                     
                 <div class= "main-banner2">
                     <div class="img-container">
-                        <img src="/src/assets/Afbeeldingen/HmeiBinnen2.png" alt="" >
+                        <img src="/src/assets/Afbeeldingen/HMeiBinnen2.png" alt="" >
                     </div>
                 </div>
             </div>
