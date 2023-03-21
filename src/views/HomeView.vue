@@ -5,7 +5,7 @@
       <div class="container">
 
           <div class="Introduction">
-              <h1>WELKOME</h1>
+              <h1>WELKOM</h1>
 
               <h4>
                   <br/>
