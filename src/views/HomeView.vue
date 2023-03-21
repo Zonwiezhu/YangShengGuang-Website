@@ -129,6 +129,7 @@
                         </table>
                     
                     <h4>
+                        <br>
                         Voor afspraken bel : 06-39235388 
                     </h4>
 
@@ -140,7 +141,7 @@
                 <h3>Bereikbaarheid</h3>
                 <div class="textbox">
                     <h5>Het gebouw van Yang Sheng Guang is uitstekend bereikbaar met de auto of openbaar vervoer. 
-                    Het gebouw ligt aan de Mecklenburgstraat, op slechts vijf minuten lopen vanaf tramhalte Dorp Zoetermeer. 
+                    Het gebouw ligt aan de Mecklenburgstraat 29, op slechts vijf minuten lopen vanaf tramhalte Dorp Zoetermeer. 
                     Verder is het vanaf de A12 richting Den Haag of Gouda maar 15 minuten rijden.</h5>
                 </div>
                 <div class="google">
@@ -162,7 +163,7 @@
 
 
     .banner .container {
-        max-width: calc(1440px - 130px);
+        max-width: 1440px;
         padding: 0 20px;
         width: 100%;
         margin: auto;

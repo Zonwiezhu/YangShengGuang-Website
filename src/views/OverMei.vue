@@ -5,14 +5,13 @@
       <div class="column-xs-12 column-md-7">
         <div class="intro">
           <h1>Mevrouw Mei</h1>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident voluptatem consectetur illum, natus placeat incidunt tempora architecto aliquid recusandae eligendi repudiandae ex laborum neque quod cum id facere nulla.</p>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident voluptatem consectetur illum, natus placeat incidunt tempora architecto aliquid recusandae eligendi repudiandae ex laborum neque quod cum id facere nulla.</p>
-          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident voluptatem consectetur illum, natus placeat incidunt tempora architecto aliquid recusandae eligendi repudiandae ex laborum neque quod cum id facere nulla.</p>
         </div>
       </div>
       <div class="column-xs-12 column-md-7">
         <blockquote>
-          <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsa provident voluptatem consectetur illum, natus placeat incidunt tempora architecto aliquid recusandae eligendi repudiandae ex laborum neque quod cum id facere nulla.</h3>
+          <h3>针灸就像针和身体之间的微妙舞蹈，恢复能量平衡，治疗开始。<br><br>
+            Acupunctuur is als een subtiele dans tussen naald en lichaam, 
+            waarbij de balans van energie wordt hersteld en de genezing begint.</h3>
         </blockquote>
       </div>
       <div class="image">
@@ -57,8 +56,8 @@
 
     .container {
     margin: auto;
-    padding: 0 2rem;
-    max-width: 75rem;
+    padding: 0 20px;
+    max-width: 1440px;
     width: 100%;
     }
 
@@ -76,6 +75,8 @@
     }
 
     .image {
+      padding-top: 50px;
+      padding-bottom: 50px;
       text-align: center;
     }
     

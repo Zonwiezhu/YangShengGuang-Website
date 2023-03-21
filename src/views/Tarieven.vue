@@ -39,7 +39,7 @@
        </div>
 
        <div class="image">
-        <img src="/src/assets/Afbeeldingen/LOGO_YI.png">
+        <img src="/src/assets/Afbeeldingen/LOGO_YI.png" width="300px">
        </div>
    </div>
 </template>
@@ -49,7 +49,7 @@
 
 <style scoped>
 .container {
-    max-width: calc(1440px - 130px);
+    max-width: 1440px;
     padding: 0 20px;
     width: 100%;
     margin: auto;
@@ -58,7 +58,7 @@
 
 .right {
     padding: 20px;
-    width: 500px;
+    width: 600px;
     height: 350px;
     float: left;
 }
@@ -76,6 +76,7 @@ h1 {
 
 .image {
     text-align: center;
+    padding-bottom: 30px;
 }
 
 @media(max-width: 1200px) {
@@ -83,16 +84,17 @@ h1 {
         padding: 10px;
     }
     .right {
-    padding: 10px;
-    width: auto;
-    height: auto;
-    float: left;
-}
+        padding: 10px;
+        width: auto;
+        height: auto;
+        float: left;
+    }
 
-.left {
-    padding: 10px;
-    float: left;
-}
+    .left {
+        padding: 10px;
+        float: left;
+    }
+
 }
 
 </style>

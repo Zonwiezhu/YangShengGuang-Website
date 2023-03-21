@@ -13,7 +13,7 @@
                     <details>
                         <summary>Slaapstoornissen</summary>
                         <p>
-                            Slaapstoornissen ijn problemen die de kwaliteit en/of de duur van de slaap verstoren.
+                            Slaapstoornissen zijn problemen die de kwaliteit en/of de duur van de slaap verstoren.
                             Er zijn verschillende soorten slaapstoornissen, waaronder insomnie, slaapapneu, en narcolepsie.
                             Deze slaapstoornissen kunnen leiden tot vermoeidheid, prikkelbaarheid en concentratieproblemen overdag.
                             De oorzaken van slaapstoornissen kunnen verschillen, waaronder stress, angst, depressie, medicatiegebruik, lichamelije aandoeningen en slaapomgeving.
@@ -25,7 +25,7 @@
                             Rusteloosheid is een gevoel van innerlijke onrust, nervositeit of prikkelbaarheid. 
                             Het kan leiden tot een verhoogde hartslag, zweten en moeite hebben om stil te zitten of te ontspannen.
                             Rusteloosheid kan worden veroorzaakt door stress, angst, medicatiegebruik of een onderliggende medische aandoening.
-                            Het kan invloed hebben op de kwaliteit can leven, omdat het intergerentie kan veroorzaken bij dagelijkse activiteiten en slaap.
+                            Het kan invloed hebben op de kwaliteit van leven, omdat het intergerentie kan veroorzaken bij dagelijkse activiteiten en slaap.
                         </p>
                     </details>
                     <details>
@@ -38,7 +38,7 @@
                     <details>
                         <summary>Depressiviteit</summary>
                         <p>
-                            Depressiviteit is een stemmingsstoornis die wordt gekenmerkt door gevoelens van verdriet, hopeloosheid, vermoeidheid en een verlies van intresse in activiteiten die eerder als plezietig werden ervaren.
+                            Depressiviteit is een stemmingsstoornis die wordt gekenmerkt door gevoelens van verdriet, hopeloosheid, vermoeidheid en een verlies van intresse in activiteiten die eerder als plezierig werden ervaren.
                             Het kan ook gepaard gaan met slaapproblemen, eetproblemen en verminderde concentratie en besluitvorming. 
                             Depressiviteit kan verschillende oorzaken hebben, zoals biologische factoren, levensgebeurtenissen, genetica en medicatie.
                         </p>
@@ -47,7 +47,7 @@
                         <summary>Allergie</summary>
                         <p>
                             Een allergie is een overreactie van het immuunsysteem op een onschadelijke stof, zoals pollen, huisstofmijn of voedsel. 
-                            Symptonen van allergie kunnen verschillen van mild tot ernstig.
+                            symptomen van allergie kunnen verschillen van mild tot ernstig.
                             Allergie kunnen erfelijk zijn en kunnen op elk moment in het leven ontstaan.
                         </p>
                     </details>
@@ -55,8 +55,8 @@
                         <summary>Hooikoorts</summary>
                         <p>
                             Hooikoorts is een allergische reactie op stuifmeel van grassen, bomen en planten. 
-                            Synptonen van hooikoorts kunnen zijn: niezen, jeukende ogen, neusverstopping en een loopneus.
-                            Deze symptonen kunnen de dagelijkse activiteiten en de slaap beinvloeden. 
+                            symptomen van hooikoorts kunnen zijn: niezen, jeukende ogen, neusverstopping en een loopneus.
+                            Deze symptomen kunnen de dagelijkse activiteiten en de slaap beinvloeden. 
                             Hooitkoorts komt meestal voor in de lente en de zomer wanneer de pollenconcentraties hoog zijn.
                         </p>
                     </details>
@@ -88,7 +88,7 @@
                         <summary>Nek en rug klachten</summary>
                         <p>
                             Nek- en rugklachten zijn veelvoorkomende aandoeningen die kunnen worden veroorzaakt door verschillende factoren, zoals een slechte houding, stress, letsel of een onderliggende medische aandoening.
-                            Symptonen kunnen variëren van pijn en stijfheid tot gevoelloosheid en tintelingen. Deze klachten kunnen het uit
+                            Symptomen kunnen variëren van pijn en stijfheid tot gevoelloosheid en tintelingen. Deze klachten kunnen het uit
                         </p>
                     </details>
                     <details>
@@ -96,7 +96,7 @@
                         <p>
                             Eczeem is een huidaandoening die wordt gekenmerkt door een ontstoken en jeukende huid. 
                             Het kan worden veroorzaakt door een overactief immuunsysteem, genetische aanleg en externe factoren zoals allergenen, irriterende stoffen en stress.
-                            Symptonen van eczeem zijn onder andere roodheid, zwelling, schilfering en korstvormig van de huid.
+                            Symptomen van eczeem zijn onder andere roodheid, zwelling, schilfering en korstvormig van de huid.
                         </p>
                     </details>
                     <details>
@@ -104,7 +104,7 @@
                         <p>
                           Stijfheid is een gevoel van stramheid of moeite om bewegingen uit te voeren, vooral na langdurig stilzitten of inactiviteit. 
                           Het kan worden veroorzaakt door verschillende factoren, zoals veroudering, letsel, ziekte of een gebrek aan lichaamsbeweging.
-                          Symptonen van stijfheid zijn onder andere moeite met bewegen, pijn en spierspanning.
+                          Symptomen van stijfheid zijn onder andere moeite met bewegen, pijn en spierspanning.
                         </p>
                     </details>
                     <details>
@@ -121,7 +121,7 @@
                             Acne is een huidaandoening die wordt gekenmerkt door onstoken en verstopte talgklieren.
                             Het wordt vaak geassocieerd met de puberteit, maar kan op elke leeftijd voorkomen. 
                             Acne kan worden veroorzaakt door homonale vernaderingen, bacteriën, overmatige talgproductie en verstopte poriën.
-                            Symptonen can acne zijn onder andere puistjes, mee-eters, rode bultjes en soms littekens.
+                            Symptomen can acne zijn onder andere puistjes, mee-eters, rode bultjes en soms littekens.
                         </p>
                     </details>
                     <details>
@@ -129,7 +129,7 @@
                         <p>
                             Jeuk is een onaangenaam gevoel op de huid, wardoor men wil krabben om verlichting te krijgen.
                             Het kan worden veroorzaakt door verschillende factoren, zoals allergieën, insectenbeten, droge huid, huidaandoeningen, infecties, medicijnen en ziektes.
-                            Symptonen van jeuk zijn onder andere roodheid, bultjes en huiduitslag.
+                            Symptomen van jeuk zijn onder andere roodheid, bultjes en huiduitslag.
                         </p>
                     </details>
                     <details>
@@ -137,7 +137,7 @@
                         <p>
                             Een schildklieraandoening treedt op wanneer de schildklier, een klein orgaan in de hals dat hormomen produceert die het metabolisme reguleren, niet goed functioneert.
                             Er zijn twee hoofdtypen van schildklieraandoeningen:  hypothyreoïdie (te lage schildklierhormoonproductie) en hyperthyreoïdie (te veel schildklierhormoonproductie).
-                            Symptonen van een schildklieraandoening variëren afhankelijk van het type en de ernst van de aandoening, maar kunnen onder andere vermoeidheid, gewichtsveranderingen, haaruitval, droge huid, gevoeligheid voor kou of warmte en stemmingswisselingen omvatten.
+                            Symptomen van een schildklieraandoening variëren afhankelijk van het type en de ernst van de aandoening, maar kunnen onder andere vermoeidheid, gewichtsveranderingen, haaruitval, droge huid, gevoeligheid voor kou of warmte en stemmingswisselingen omvatten.
                         </p>
                     </details>
                     <details>
@@ -177,7 +177,7 @@
 <style scoped>
 
 .banner .container {
-      max-width: calc(1440px - 130px);
+      max-width: 1440px;
       padding: 0 20px;
       width: 100%;
       margin: auto;

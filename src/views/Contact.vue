@@ -77,7 +77,7 @@
 .container{
   width: 100%;
   background: #fff;
-  padding: 20px 60px 30px 40px;
+  padding: 20px 30px 50px 30px;
 }
 .container .content{
   display: flex;
@@ -150,7 +150,7 @@
   resize: none;
 }
 .right-side .message-box{
-  min-height: 110px;
+  min-height: 210px;
 }
 .right-side .input-box textarea{
   padding-top: 6px;
@@ -176,8 +176,8 @@
 
 @media (max-width: 950px) {
   .container{
-    width: 90%;
-    padding: 30px 40px 40px 35px ;
+    width: 100%;
+    padding: 30px 40px 30px 30px ;
   }
   .container .content .right-side{
    width: 75%;
@@ -207,6 +207,4 @@
    margin-left: 0;
  }
 }
-
-
 </style>
