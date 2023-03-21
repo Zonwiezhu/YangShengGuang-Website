@@ -99,7 +99,7 @@
 }
 
 .Rechts-Afbeelding {
-  padding: 40px;
+  padding: 20px;
 }
 
 .Rechts-Afbeelding img {
@@ -109,7 +109,7 @@
 }
 
 .Links-Afbeelding {
-  padding: 30px
+  padding: 20px
 }
 
 .Links-Afbeelding img {
