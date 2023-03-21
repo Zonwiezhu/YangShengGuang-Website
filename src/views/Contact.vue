@@ -45,7 +45,7 @@
       </div>
       <div class="right-side">
 
-        <div class="topic-text">Stuur een bericht</div>
+        <div class="topic-text">Stuur een bericht (Binnenkort)</div>
         <p>Als u nog vragen heeft, kunt u hieronder invullen en versturen.</p>
       
         <form action="#">
