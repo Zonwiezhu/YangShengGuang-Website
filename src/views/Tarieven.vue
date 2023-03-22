@@ -6,11 +6,11 @@
                </p><hr>
                Eerste consult - Gratis
                <hr>
-               Acupuntuur (30 min) - €60
+               Acupuntuur (30 min) - €50
                <hr>
-               Tuina massage (45 min) - €60
+               Tuina massage (45 min) - €50
                <hr>
-               Acupuntuur + Tuina massage (60 min) - €120
+               Acupuntuur + Tuina massage (60 min) - €100
                <hr>
                Moxa (30 min) - €50
                <hr>
