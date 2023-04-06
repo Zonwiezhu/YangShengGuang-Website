@@ -164,14 +164,14 @@
 
     .banner .container {
         max-width: 1440px;
-        padding: 0 20px;
         width: 100%;
         margin: auto;
     }
+    
     .banner-content {
         display: flex;
         justify-content:space-between;
-        padding: 20px 0px;
+        padding: 50px 0px;
     }
     .banner-content > div{
         flex:0 0 calc(50% - 20px);
@@ -192,7 +192,7 @@
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        background: #ffffff;
+        background: #f5f5f5;
         border-radius: 4px;
         padding: 16px 32px;
     }
@@ -235,15 +235,14 @@
     }
     .Introduction {
         text-align: center;
-    }
-    .Introduction h1 {
-        margin-top: 10px;
+        margin-top: 30px;
     }
     .Information {
-    display: flex;
-    justify-content: space-evenly;
-    padding: 20px;
+        display: flex;
+        justify-content: space-evenly;
+        padding: 20px;
     }
+
     .Information h3 {
         font-size: 22px;
         line-height: 25px;
@@ -279,7 +278,7 @@
     .openinghours {
         color: black;
         border-radius:5px;
-        background-color: White;
+        background-color: #f5f5f5;
         width: auto;
         margin:10px;
         padding:10px;
@@ -309,7 +308,7 @@
         padding-top: 25px;
     }
     .google {
-        padding-bottom: 50%;
+        padding-bottom: 45%;
         position: relative;
     }
     .google iframe {
@@ -334,6 +333,10 @@
 
 
   @media(max-width: 1024px) {
+
+      .banner{
+        padding: 20px;
+      }
       .banner-content {
           flex-wrap: wrap;
       }

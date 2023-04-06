@@ -76,7 +76,7 @@
 
 .container{
   width: 100%;
-  background: #fff;
+  background: #f5f5f5;
   padding: 20px 30px 50px 30px;
 }
 .container .content{

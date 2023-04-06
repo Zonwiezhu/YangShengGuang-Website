@@ -4,10 +4,10 @@
             <div class="Introduction">
                 <h1>LICHAMELIJKE KLACHTEN</h1>
 
-                <h3>
-                    We helpen u graag met klachten en preventieve behandelingen. 
-                    Als uw klachten niet bij staat neem dan contact met ons op.
-                </h3>
+                <h4>
+                    We zijn er om u te helpen met klachten en preventieve behandelingen. Of u nu last heeft van specifieke symptomen of gewoon op zoek bent naar manieren om uw gezondheid te verbeteren, wij zijn hier om u de best mogelijke zorg en behandeling te bieden. Onze deskundige therapeuten staan voor u klaar om u te adviseren en te behandelen, of u nu kampt met pijn, spanning, blessures of andere klachten.<br><br>
+                    Als uw klachten niet in onze lijst van behandelingen staan, neem dan gerust contact met ons op. We zullen u graag helpen en adviseren over de best mogelijke opties voor uw specifieke situatie. Onze missie is om u te helpen bij het bereiken van uw optimale gezondheid en welzijn, en we zijn er trots op om u de hoogste kwaliteit van zorg en behandeling te bieden. Neem vandaag nog contact met ons op om te ontdekken hoe we u kunnen helpen!
+                </h4>
 
                 <section>
                     <details>

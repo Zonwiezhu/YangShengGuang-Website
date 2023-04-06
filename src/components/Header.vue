@@ -12,12 +12,12 @@
         </a>
         <!--Link-->
         <div class="links" :class="{'responsive': isResponsive}">
-          <router-link to="/" @click="closeMenu()">Home</router-link>
-          <router-link to="/lichamelijkeklachten" @click="closeMenu()">Lichamelijke klachten</router-link>
-          <router-link to="/behandeling" @click="closeMenu()">Behandeling</router-link>
-          <router-link to="/mei" @click="closeMenu()">Over Mei</router-link>
-          <router-link to="/tarieven" @click="closeMenu()">Tarieven</router-link>
-          <router-link to="/contact" @click="closeMenu()">Contact</router-link>
+          <router-link to="/" @click="closeMenu()">HOME</router-link>
+          <router-link to="/lichamelijkeklachten" @click="closeMenu()">LICHAMELIJKE KLACHTEN</router-link>
+          <router-link to="/behandeling" @click="closeMenu()">BEHANDELINGEN</router-link>
+          <router-link to="/mei" @click="closeMenu()">OVER MEI</router-link>
+          <router-link to="/tarieven" @click="closeMenu()">TARIEVEN</router-link>
+          <router-link to="/contact" @click="closeMenu()">CONTACT</router-link>
         </div>
       </div>
     </nav>
@@ -38,86 +38,78 @@
   </script>
   
   <style scoped>
-nav {
-  border-bottom: 3px solid green;
-}
+    nav {
+      border-bottom: 3px solid green;
+    }
 
-nav .nav-inner {
-  height: 90px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  max-width: 1070px;
-  width: 100%;
-  margin: auto;
-  padding: 1.3rem;
-}
+    nav .nav-inner {
+      height: 110px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      max-width: 1300px;
+      margin: auto;
+      padding: 1rem;
+    }
 
-.nav-inner .links a {
-  margin: 0px 30px;
-  font-size: normal;
-  font-weight: 400;
-  font-size: 14px;
-  line-height: 16px;
-  color: black;
-  line-height: 1.25;
-  border-bottom: 1px solid transparent;
-  transition: .3s;
-}
+    .nav-inner .links a {
+      margin: 0px 30px;
+      font-size: 18px;
+      color: black;
+      border-bottom: 2px solid transparent;
+      transition: .2s;
+    }
 
-.rechts {
-  align-self: center;
-  margin-left: 1.2rem;
-}
+    .rechts {
+      margin-left: 2rem;
+    }
 
-.links {
-  margin: auto;
-}
+    .links {
+      margin-left: 1rem;
+    }
 
-.nav-inner .links a:hover {
-  border-color: black;
-}
+    .nav-inner .links a:hover {
+      border-color: black;
+    }
 
-.menu-icon {
-  color: black;
-  cursor: pointer;
-  display: none;
-}
+    .menu-icon {
+      color: black;
+      cursor: pointer;
+      display: none;
+    }
 
-@media screen and (max-width: 1024px) {
-  .links {
-    display: none;
-    position: absolute;
-    top: 93px;
-    left: 0;
-    width: 100%;
-    background-color: #f8f8f8;
-    text-align: center;
-    padding-top: 1rem;
-    z-index: 1;
-  }
+    @media screen and (max-width: 1200px) {
+      .links {
+        display: none;
+        position: absolute;
+        top: 120px;
+        left: 0;
+        width: 100%;
+        background-color: #f5f5f5;
+        text-align: center;
+      }
 
-  .links.responsive {
-    display: block;
-  }
+      .links.responsive {
+        display: block;
+      }
 
-  .links a {
-    display: block;
-    padding: 1rem 0;
-  }
+      .links a {
+        display: block;
+        padding: 1rem;
+      }
 
-  .menu-icon {
-    display: block;
-  }
+      .menu-icon {
+        display: block;
+      }
 
-  .nav-inner {
-    padding: 1rem;
-  }
+      nav .nav-inner {
+        height: 110px;
+        padding: 1.3rem;
+      }
 
-  body {
-    margin-top: 4rem;
-  }
-}
-
+      body {
+        margin-top: 4rem;
+      }
+    }
   </style>
   
